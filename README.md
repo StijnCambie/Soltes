@@ -1,4 +1,4 @@
-#Code and data related to Soltes' problem
+# Code and data related to Soltes' problem
 
 In this folder and its subfolders, we present code on various directions related to Soltes' problem.
 The findings are also written down in a few papers;
