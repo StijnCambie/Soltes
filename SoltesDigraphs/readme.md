@@ -4,7 +4,7 @@ In this (sub)repository, we give files giving examples of digraphs with the prop
 
 Hereby we give k-regular (out-degree= in-degree = k) examples of
 vertex-transitive digraphs and oriented graphs, as well as a
-2-regular non-VT (of order 960).
+2-regular non-VT (of order 960) and one with trivial automorphism group (of order 3306).
 
 The abundancy of solutions implies that the analogue of Soltes' problem for digraphs is in essence settled.
 (one can expect infinitely many solutions for every integer z to W(D)-W(D\v)=z)
